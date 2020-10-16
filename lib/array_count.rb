@@ -1,5 +1,5 @@
 def count_strings(array)
-  array.count 
+  while array.count 
     
    
 end
