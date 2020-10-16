@@ -1,6 +1,6 @@
 def count_strings(array)
    array.count do |string|
-     string == "", "hello", "world"
+     string == ["", "hello", "world"]
     
   end
 end
