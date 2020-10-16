@@ -1,5 +1,5 @@
 def count_strings(array)
-  array.count do |array|
+  array.count do {|array|
     array > 1 
   end
 end
