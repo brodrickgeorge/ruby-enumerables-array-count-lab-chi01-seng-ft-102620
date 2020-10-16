@@ -1,6 +1,6 @@
 def count_strings(array)
- while array.count do |array|
-   array == String
+ while array.count do |string|
+   string == String
 end
 
 def count_empty_strings(array)
